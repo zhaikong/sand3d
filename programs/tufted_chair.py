@@ -6,6 +6,8 @@ right ones mirrored. The architecture is the seat on its legs; the back and ever
 row of trim are details added to it: deleting `add_back` leaves a stool, and the
 back's tufts follow the width they are given.
 """
+import utils.transport
+import utils.session
 import json
 import math
 import sys
